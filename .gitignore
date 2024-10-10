@@ -6,6 +6,9 @@ __pycache__/
 # ignore node_modules
 node_modules/
 
+# ignore python model .h5 files
+*.h5
+
 # C extensions
 *.so
 
